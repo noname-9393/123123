@@ -1,0 +1,27 @@
+/**
+ * @name Neverlose
+ * @author maenDisease
+ * @version 1.0.0
+ * @description Steam UI on Discord.
+ * @source https://github.com/maenDisease/Steam
+ * @invite BShu37e4jg
+ * @website https://maendisease.github.io/
+ * @authorId 678469587444170762
+ * @BDEditor Steam
+*/
+
+@import url('https://maendisease.github.io/Steam/Steam.css');
+@import url('https://maendisease.github.io/Steam/addons/horizontalserverlist.css');
+
+:root {
+  --hue-shift: 16;
+  --content-width: 100%;
+  --message-width: 100%;
+  --server-size: 28px;
+  --custom-font: Josefin Sans;
+  --custom-font-code: Josefin Sans;
+}
+
+/* Any custom CSS below here */
+
+
